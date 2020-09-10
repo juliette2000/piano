@@ -1,0 +1,88 @@
+body{
+    background-color: cornflowerblue;
+
+}
+.container{
+    border:solid white 2px;
+    background-color: black;
+    margin:auto auto;
+    display:inline-flex;
+    height:auto;
+    position: absolute;
+    top:50%;
+    bottom: 50%;
+    left: 35%;
+
+    /* right: 50%; */
+
+
+}
+.white-key{
+    height: 150px !important;
+    width: 20px;
+    border: black solid 2px;
+    background-color:white;
+    bottom:1px;
+
+}
+
+.black-key-1{
+    height: 85px !important;
+    width: 20px;
+    background-color: black;
+    /* top:50%; */
+    left:6%;
+    position: absolute;
+}
+.black-key-2{
+    height: 85px !important;
+    width: 20px;
+    background-color: black;
+    /* top:50%; */
+    left:16%;
+    position: absolute;
+}
+.black-key-3{
+    height: 85px !important;
+    width: 20px;
+    background-color: black;
+    /* top:50%; */
+    left:36%;
+    position: absolute;
+}
+.black-key-4{
+    height: 85px !important;
+    width: 20px;
+    background-color: black;
+    z-index: 3;
+    /* top:50%; */
+    left:46%;
+    position: absolute;
+}
+.black-key-5{
+    height: 85px !important;
+    width: 20px;
+    background-color: black;
+    z-index: 3;
+    /* top:50%; */
+    left:56%;
+    position: absolute;
+}
+.black-key-6{
+    height: 85px !important;
+    width: 20px;
+    background-color: black;
+    z-index: 3;
+    /* top:50%; */
+    left:76%;
+    position: absolute;
+}
+.black-key-7{
+    height: 85px !important;
+    width: 20px;
+    background-color: black;
+    z-index: 3;
+    /* top:50%; */
+    left:86%;
+    position: absolute;
+}
